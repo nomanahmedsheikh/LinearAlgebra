@@ -1,0 +1,97 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  product: Linear Algebra
+  folders:
+
+  - title:
+    output: pdf
+    type: frontmatter
+    folderitems:
+    - title:
+      url: /titlepage.html
+      output: pdf
+      type: frontmatter
+    - title:
+      url: /tocpage.html
+      output: pdf
+      type: frontmatter
+
+  - title: Introduction
+    output: web, pdf
+    folderitems:
+
+    - title: Get started
+      url: /index.html
+      output: web, pdf
+      type: homepage
+
+    - title: Matrix Multiplication
+      url: /linalg_introduction.html
+      output: web, pdf
+
+  - title: Vector Spaces
+    output: web, pdf
+    folderitems:
+
+    - title: Subspaces
+#      url: /mydoc_release_notes_60.html
+      output: web, pdf
+
+    - title: Fundamental Subspaces
+#      url: /mydoc_release_notes_50.html
+      output: web, pdf
+
+  - title: Orthogonality
+    output: web, pdf
+    folderitems:
+
+    - title: Projections
+#      url: /mydoc_about_ruby_gems_etc.html
+      output: web, pdf
+
+  - title: Determinants
+    output: web, pdf
+
+    folderitems:
+    - title: Interpretations
+#      url: /mydoc_pages.html
+      output: web, pdf
+
+    - title: Applications
+#      url: /mydoc_posts.html
+      output: web, pdf
+
+  - title: Eigen Things
+    output: web, pdf
+
+    folderitems:
+    - title: Eigenvalues and Eigenvectors
+#      url: /mydoc_sidebar_navigation.html
+      output: web, pdf
+
+
+  - title: Singular Value Decomposition
+    output: web, pdf
+
+    folderitems:
+    - title: Principal Component Analysis
+#      url: /mydoc_adding_tooltips.html
+      output: web, pdf
+
+    - title: Dimensionality Reduction
+#      url: /mydoc_alerts.html
+      output: web, pdf
+
+  - title: Positive Definite Matrices
+    output: web, pdf
+
+    folderitems:
+    - title: Saddle Points
+#      url: /mydoc_commenting_on_files.html
+      output: web, pdf
+
+#    - title: Git collaboration
+#      url: /mydoc_git_collaboration
+#      output: web, pdf

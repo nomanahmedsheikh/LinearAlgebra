@@ -2,7 +2,7 @@
 title: "Getting started with Linear Algebra"
 keywords: sample homepage
 tags: [getting_started]
-sidebar: mydoc_sidebar
+sidebar: linalg_sidebar
 toc: false
 permalink: index.html
 summary: Understanding and Applying Linear Algebra in Computer Science.
