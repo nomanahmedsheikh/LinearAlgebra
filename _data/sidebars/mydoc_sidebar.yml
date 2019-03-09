@@ -28,7 +28,7 @@ entries:
       type: homepage
 
     - title: Matrix Multiplication
-      url: /mydoc_introduction.html
+#      url: /mydoc_introduction.html
       output: web, pdf
 
   - title: Vector Spaces
@@ -36,11 +36,11 @@ entries:
     folderitems:
 
     - title: Subspaces
-      url: /mydoc_release_notes_60.html
+#      url: /mydoc_release_notes_60.html
       output: web, pdf
 
     - title: Fundamental Subspaces
-      url: /mydoc_release_notes_50.html
+#      url: /mydoc_release_notes_50.html
       output: web, pdf
 
   - title: Orthogonality
@@ -48,7 +48,7 @@ entries:
     folderitems:
 
     - title: Projections
-      url: /mydoc_about_ruby_gems_etc.html
+#      url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
 
   - title: Determinants
@@ -56,11 +56,11 @@ entries:
 
     folderitems:
     - title: Interpretations
-      url: /mydoc_pages.html
+#      url: /mydoc_pages.html
       output: web, pdf
 
     - title: Applications
-      url: /mydoc_posts.html
+#      url: /mydoc_posts.html
       output: web, pdf
 
   - title: Eigen Things
@@ -68,7 +68,7 @@ entries:
 
     folderitems:
     - title: Eigenvalues and Eigenvectors
-      url: /mydoc_sidebar_navigation.html
+#      url: /mydoc_sidebar_navigation.html
       output: web, pdf
 
 
@@ -77,11 +77,11 @@ entries:
 
     folderitems:
     - title: Principal Component Analysis
-      url: /mydoc_adding_tooltips.html
+#      url: /mydoc_adding_tooltips.html
       output: web, pdf
 
     - title: Dimensionality Reduction
-      url: /mydoc_alerts.html
+#      url: /mydoc_alerts.html
       output: web, pdf
 
   - title: Positive Definite Matrices
@@ -89,7 +89,7 @@ entries:
 
     folderitems:
     - title: Saddle Points
-      url: /mydoc_commenting_on_files.html
+#      url: /mydoc_commenting_on_files.html
       output: web, pdf
 
 #    - title: Git collaboration
