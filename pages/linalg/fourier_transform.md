@@ -8,7 +8,7 @@ folder: linalg
 It says that any periodic function can be written as a linear combination of sines and cosines of different frequencies.
 Say _f(x)_ is my periodic function. It can be expanded using fourier series as follows:
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;f(x)=a_0 + a_1cos(x) + b_1sin(x) + a_2cos(2x) + b_2sin(2x) + ..." title="latex"/>
+<img src="{{site.latex}};f(x)=a_0 + a_1cos(x) + b_1sin(x) + a_2cos(2x) + b_2sin(2x) + ..." title="latex"/>
 
 This can be rewritten as follows  
 
