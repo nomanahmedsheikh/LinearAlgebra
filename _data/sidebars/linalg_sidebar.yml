@@ -27,8 +27,16 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Matrix Multiplication
+    - title: Introduction
       url: /linalg_introduction.html
+      output: web, pdf
+
+    - title: Notations
+#      url: /linalg_introduction.html
+      output: web, pdf
+
+    - title: Matrix Multiplication
+#      url: /linalg_introduction.html
       output: web, pdf
 
   - title: Vector Spaces
@@ -95,3 +103,11 @@ entries:
 #    - title: Git collaboration
 #      url: /mydoc_git_collaboration
 #      output: web, pdf
+
+  - title: Miscellaneous
+    output: web, pdf
+
+    folderitems:
+    - title: Fourier Transform
+      url: /linalg_fourier_transform.html
+      output: web, pdf
