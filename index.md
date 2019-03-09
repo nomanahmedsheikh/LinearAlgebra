@@ -3,6 +3,7 @@ title: "Getting started with Linear Algebra"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
+toc: false
 permalink: index.html
 summary: Understanding and Applying Linear Algebra in Computer Science.
 ---
@@ -21,9 +22,9 @@ Hope You Will Enjoy It !!!
   
 
 ## Who should read this?
-#### **First time taking it**
+### First time taking it
 You should consider grasping each and every line of the material. 
 
-#### **Done 101 course in Linear Algebra at a university**
-You can skip the details and proofs. More focus should be on the applications of these topics in Computer Science.
+### Done 101 course
+If you have done introductory course in Linear Algebra at a university, you can skip the details and proofs. More focus should be on the applications of these topics in Computer Science.
 If you do not remember proofs, you should go through them. There is no harm in doing revisions. 
