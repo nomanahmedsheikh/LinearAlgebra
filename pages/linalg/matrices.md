@@ -13,7 +13,7 @@ Well, we all know what a matrix is. Or perhaps, how does a matrix look like. For
 **How to not look at a Matrix?**
 
 If you search for definition of a matrix on web, most of the articles defines matrix as a "Rectangular arrangement of numbers". 
-This means that our matrix `**A**` is a collection of 9 points arranged in a certain fashion.
+This means that our matrix **`A`** is a collection of 9 points arranged in a certain fashion.
 This is a very naive way of looking at matrices. And I do not want you to look at matrices in such a fashion. 
 
 *Matrices are more than a mere collection of numbers*
