@@ -15,7 +15,7 @@ I will use a bold-faced character (such as **A**) to denote a matrix throughout 
 **How to not look at a Matrix?**
 
 If you search for definition of a matrix on web, most of the articles defines matrix as a "Rectangular arrangement of numbers". 
-This means that our matrix **`A`** is a collection of 9 numbers arranged in a certain fashion.
+This means that our matrix **`A`** is a collection of 6 numbers arranged in a certain fashion.
 This is a very naive way of looking at matrices. And I _do not want you_ to look at matrices in such a fashion. 
 
 *Matrices are more than a mere collection of numbers*
@@ -45,9 +45,20 @@ Lets draw these columns in our ℝ<sup>2</sup> space
 
 <img src="images/linalg/matrices_01.png" title="columns" style="height:300px;">
 
+And now we would love to call **A** as an ordered collection of 3 points in 2D space.
+
 ### Row Way
 Similar to our column way, you can look at a matrix a collection of vectors represented by rows of the matrix.
 For our matrix **A**, each vector has 3 components and will represent points in 3D space also called as ℝ<sup>3</sup>.
 **A** will correspond to a collection of two points namely `(1,1,3)` and `(1,2,1)`.
+
+This is how these rows look like in ℝ<sup>3</sup>
+
+<img src="images/linalg/matrices_02.png" title="columns" style="height:300px;">
+
+
+These two ways of interpreting a matrix may sound a little unintuitive at first.
+But it will help us long time in our journey into Linear Algebra :slightly_smiling_face 
+
 
 

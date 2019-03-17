@@ -35,8 +35,8 @@ entries:
 #      url: /linalg_introduction.html
       output: web, pdf
 
-    - title: Matrix Multiplication
-#      url: /linalg_introduction.html
+    - title: Matrices
+      url: /linalg_matrices.html
       output: web, pdf
 
   - title: Vector Spaces
