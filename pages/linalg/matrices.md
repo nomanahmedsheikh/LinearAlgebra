@@ -8,11 +8,12 @@ folder: linalg
 ## What is Matrix?
 Well, we all know what a matrix is. Or perhaps, how does a matrix look like. For those who don't, this is what a 2x3 matrix looks like
 
-<img src="https://latex.codecogs.com/svg.latex?\Large&space;A = \begin{bmatrix} 1 & 1 & 2 \\ 1 & 2 & 1 \end{bmatrix}" title="latex"/>
+<img src="https://latex.codecogs.com/svg.latex?\Large&space;\textbf{A} = \begin{bmatrix} 1 & 1 & 3 \\ 1 & 2 & 1 \end{bmatrix}" title="latex"/>
 
 **How to not look at a Matrix?**
 
-If you search for definition of a matrix on web, most of the articles defines matrix as a "Rectangular arrangement of numbers". This means that our matrix `A` is a collection of 9 points arranged in a certain fashion.
+If you search for definition of a matrix on web, most of the articles defines matrix as a "Rectangular arrangement of numbers". 
+This means that our matrix `**A**` is a collection of 9 points arranged in a certain fashion.
 This is a very naive way of looking at matrices. And I do not want you to look at matrices in such a fashion. 
 
 *Matrices are more than a mere collection of numbers*
@@ -39,6 +40,11 @@ Also, if our matrix has real values in it, we call that space **ℝ<sup>2</sup>*
 
 Lets draw these columns in our ℝ<sup>2</sup> space
 
-<img src="adfaf/matrices_01.png" title="columns"/>
+<img src="images/linalg/matrices_01.png" title="columns" height="100"/>
+
+### Row Way
+Similar to our column way, you can look at a matrix a collection of vectors represented by rows of the matrix.
+For our matrix **A**, each vector has 3 components and will represent points in 3D space also called as ℝ<sup>3</sup>.
+**A** will correspond to a collection of two points namely `(1,1,3)` and `(1,2,1)`.
 
 
