@@ -43,7 +43,7 @@ Lets draw these columns in our ℝ<sup>2</sup> space
 <img src="images/linalg/matrices_01.png" title="columns" height="100"/>
 
 
-![columns](images/linalg/matrices_01.png | width=100)
+![columns](images/linalg/matrices_01.png)
 
 ### Row Way
 Similar to our column way, you can look at a matrix a collection of vectors represented by rows of the matrix.
