@@ -42,6 +42,9 @@ Lets draw these columns in our ℝ<sup>2</sup> space
 
 <img src="images/linalg/matrices_01.png" title="columns" height="100"/>
 
+
+![columns](images/linalg/matrices_01.png | width=100)
+
 ### Row Way
 Similar to our column way, you can look at a matrix a collection of vectors represented by rows of the matrix.
 For our matrix **A**, each vector has 3 components and will represent points in 3D space also called as ℝ<sup>3</sup>.
