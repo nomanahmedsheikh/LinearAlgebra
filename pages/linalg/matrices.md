@@ -40,7 +40,7 @@ Also, if our matrix has real values in it, we call that space **ℝ<sup>2</sup>*
 
 Lets draw these columns in our ℝ<sup>2</sup> space
 
-<img src="images/linalg/matrices_01.png" title="columns" height="100"/>
+<img src="images/linalg/matrices_01.png" title="columns" height=100/>
 
 
 ![columns](images/linalg/matrices_01.png)
