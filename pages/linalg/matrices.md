@@ -10,11 +10,13 @@ Well, we all know what a matrix is. Or perhaps, how does a matrix look like. For
 
 <img src="https://latex.codecogs.com/svg.latex?\Large&space;\textbf{A} = \begin{bmatrix} 1 & 1 & 3 \\ 1 & 2 & 1 \end{bmatrix}" title="latex"/>
 
+I will use a bold-faced character (such as **A**) to denote a matrix throughout the material. 
+
 **How to not look at a Matrix?**
 
 If you search for definition of a matrix on web, most of the articles defines matrix as a "Rectangular arrangement of numbers". 
-This means that our matrix **`A`** is a collection of 9 points arranged in a certain fashion.
-This is a very naive way of looking at matrices. And I do not want you to look at matrices in such a fashion. 
+This means that our matrix **`A`** is a collection of 9 numbers arranged in a certain fashion.
+This is a very naive way of looking at matrices. And I _do not want you_ to look at matrices in such a fashion. 
 
 *Matrices are more than a mere collection of numbers*
 
@@ -24,7 +26,8 @@ In Linear Algebra, we have many different ways of interpreting a matrix. But two
 - Column Way
 - Row Way
 
-I will describe in detail what `Column Way` means and what does it represent. Once we grasp it effectively, details `Row Way` will follow immediately.
+I will describe in detail what `Column Way` means and what does it represent. 
+Once we grasp it effectively, details about `Row Way` will follow immediately.
 
 ### Column Way
 As I mentioned earlier, do not look at a matrix as a collection of numbers. 
@@ -34,13 +37,13 @@ Where each column of a matrix is nothing but a vector in a coordinate space.
 And we all know that a vector represents a point in coordinate system.
 And therefore a matrix is a collection of points represented by its columns. 
 
-In our little matrix **A** above, we have three columns which is equivalent to three point.
+In our little matrix **A** above, we have three columns which is equivalent to having three points in some space.
 Each column has length 2, which means each point will lie in a two dimensional space.
 Also, if our matrix has real values in it, we call that space **ℝ<sup>2</sup>**.
 
 Lets draw these columns in our ℝ<sup>2</sup> space
 
-<img src="images/linalg/matrices_01.png" title="columns" height="100">
+<img src="images/linalg/matrices_01.png" title="columns" style="height:300px;">
 
 ### Row Way
 Similar to our column way, you can look at a matrix a collection of vectors represented by rows of the matrix.
