@@ -30,7 +30,7 @@ Consider _first quadrant of the x-y plane_. This is not a vector spacy. Why??
 
 More formally we can say that the space mentioned in the above example is **closed** with respect to additions but it is not closed with respect to scalar multiplication.
 
-```A space qualifies as a vector space if it is closed with respect to addition as well as scalar multiplication.```   
+> A space qualifies as a vector space if it is closed with respect to addition as well as scalar multiplication.   
 
 
 ## Subspaces
