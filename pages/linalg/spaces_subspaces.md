@@ -34,4 +34,15 @@ More formally we can say that the space mentioned in the above example is **clos
 
 
 ## Subspaces
-Can
+_Can we find a portion or subset of vector space that is itself a vector space?_
+Lets try:
+- Suppose we start with <img src="https://latex.codecogs.com/svg.latex?\Large&space;\begin{bmatrix} 3 \\ 2\end{bmatrix}" title="latex"/> in ℝ<sup>2</sup>.
+All scalar multiplication of this vector will give us a line.
+- Any two point on that line will add up to give another point on the same line.
+- Therefore, this line is a vector space also called as **subspace of ℝ<sup>2</sup>**.
+- Note that its not the same as ℝ. Here vectors have 2 components.
+
+
+SOME IMAGE
+
+> Any line not passing through origin (or zero vector) will not be a vector space. Zero vector has to be present.
