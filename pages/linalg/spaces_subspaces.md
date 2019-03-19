@@ -17,15 +17,15 @@ If **u** and **v** lie in vector space 𝕍, then **u** + **v** also lies in �
 If **u** lies in 𝕍, then c**u** also lies in 𝕍.
 
 ### Examples
-1. ℝ<sup>2</sup>: all two dimensional real vectors form a vector space which also known as the x-y plane. 
+1. ℝ<sup>2</sup>: all two dimensional real vectors form a vector space which is also known as the x-y plane. 
 Consider any set of two dimensional vectors such as `(3,2)`, `(0,0)` or `(π, e)`. 
-Sum of these vectors will a two dimensional real vector. Similarly, scalar multiplication of these two vectors gives a vector in ℝ<sup>2</sup>.
+Sum of these vectors will be a two dimensional real vector. Similarly, scalar multiplication of these two vectors gives a vector in ℝ<sup>2</sup>.
 
 2. ℝ<sup>n</sup>: all column vectors with n components
 
 Now, let me give you an example of something that is not a vector space. 
-Consider _first quadrant of the x-y plane_. This is not a vector spacy. Why??
-- Well, it satifies the addition property
+Consider _first quadrant of the x-y plane_. This is not a vector space. Why??
+- Well, it satisfies the addition property
 - But it fails for multiplication property. If we multiply any vector in first quadrant with a negative scalar, we would end up in third quadrant.
 
 More formally we can say that the space mentioned in the above example is **closed** with respect to additions but it is not closed with respect to scalar multiplication.
@@ -42,7 +42,18 @@ All scalar multiplication of this vector will give us a line.
 - Therefore, this line is a vector space also called as **subspace of ℝ<sup>2</sup>**.
 - Note that its not the same as ℝ. Here vectors have 2 components.
 
-
-SOME IMAGE
+<img src="images/linalg/spaces_subspaces_01.png" title="subspace" style="height:200px;">
 
 > Any line not passing through origin (or zero vector) will not be a vector space. Zero vector has to be present.
+
+### Examples
+Lets think of some obvious subspaces of ℝ<sup>2</sup>
+
+1. All of the ℝ<sup>2</sup> space itself. Well, why not!!! A vector space is a subspace of itself.
+2. Any line passing through `(0,0)` is also a subspace of ℝ<sup>2</sup>.
+3. Zero Vector alone. This is also a subspace which consists of only one vector i.e. zero vector.
+
+
+
+_Now that we know what vector spaces and subspaces mean, we can now bring matrices in the movie.
+Next topic will describe the multiple vector spaces that a matrix represent._ 
